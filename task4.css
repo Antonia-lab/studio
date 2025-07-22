@@ -238,7 +238,7 @@ footer{
 }
 .footer-body-links{
     display: flex;
-    flex-direction: column;
+/*     flex-direction: column; */
     gap: 15px;
 }
 
@@ -251,6 +251,7 @@ color: white;
     font-family: "Lora", serif;
     font-weight: 700;
     font-size: 24px;
+    color: white;
 }
 
 .footer-social-media{
